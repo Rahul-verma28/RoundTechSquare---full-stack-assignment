@@ -9,7 +9,7 @@ export default function ContactSection() {
             <ContactForm />
           </div>
           <div className="p-8 md:p-12 flex flex-col justify-center">
-            <h3 className="text-blue-600 font-medium mb-4">LET'S GRAB COFFEE</h3>
+            <h3 className="text-blue-600 font-medium mb-4">LET&apos;S GRAB COFFEE</h3>
             <h2 className="text-3xl md:text-4xl font-bold mb-6">
               GET IN TOUCH WITH ME TO PLAN
               <br />

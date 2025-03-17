@@ -1,4 +1,3 @@
-import { Home, Building, Key, FileText, Search, BarChart } from "lucide-react";
 import Image from "next/image";
 
 interface ServiceCardProps {

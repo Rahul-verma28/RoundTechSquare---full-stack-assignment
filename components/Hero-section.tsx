@@ -40,7 +40,6 @@
 // }
 
 import Link from "next/link";
-import Header from "./Header";
 import Image from "next/image";
 import { Facebook, Twitter, Linkedin, Instagram, Youtube } from "lucide-react";
 
@@ -84,7 +83,6 @@ export default function HeroSection() {
           </div>
         </div>
 
-        {/* Header & Navigation */}
         <header className=" text-white py-4 md:px-10">
           <div className="container mx-auto flex flex-col md:flex-row justify-between items-center px-4">
             <div className="flex items-center mb-4 md:mb-0">
@@ -139,7 +137,7 @@ export default function HeroSection() {
             href="#"
             className="px-8 py-4 border-2 border-white hover:bg-white hover:text-gray-800 transition-colors text-sm font-semibold tracking-wide rounded-md"
           >
-            WHAT'S MY HOME WORTH
+            WHAT&apos;S MY HOME WORTH
           </Link>
           <Link
             href="#"
