@@ -2,7 +2,7 @@ import ContactForm from "./Contact-form";
 
 export default function ContactSection() {
   return (
-    <section className="py-16 md:px-10">
+    <section className="py-16 md:px-10" id="contact">
       <div className="container mx-auto px-4 ">
         <div className="grid md:grid-cols-2 gap-0 bg-sky-50 rounded-lg overflow-hidden shadow-md">
           <div className="p-4 md:p-10">
